@@ -13,5 +13,6 @@ the build otherwise is very simple, following MIDI spec guidelines, I am persona
 - switch to add modulation state
 - indicator LEDs
 
+  ---
 all the schematics will be avaliable in the schematics folder, I do plan on producing PCBs for this device if it works well.
 all will be housed in a guitar pedal blank, size to be determined. 
